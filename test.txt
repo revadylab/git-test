@@ -3,5 +3,4 @@ Hallo von MASTER
 Hallo von FEATURE
 zweite zeile
 feature test
-masterr eigene zeile
-conflict eigene zeile
+master eigene zeile
