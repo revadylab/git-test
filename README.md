@@ -9,5 +9,5 @@
 ### einfacher lernen und probieren, kein echter nutzen.
 
 ## status:
-### lernprojekt git/github, basics gelernt.
+### lernprojekt git/github, basics fast fertig gelernt, kleine themen fehlen noch.
 
