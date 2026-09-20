@@ -4,3 +4,4 @@ Hallo von FEATURE
 zweite zeile
 feature test
 master eigene zeile
+conflict eigene zeile
