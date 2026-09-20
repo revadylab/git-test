@@ -1,4 +1,6 @@
+
 Hallo von MASTER
+Hallo von FEATURE
 zweite zeile
 feature test
 master eigene zeile
